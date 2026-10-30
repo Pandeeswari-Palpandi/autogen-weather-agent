@@ -1,0 +1,8 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+streamlit
+ddgs
+python-dotenv
+openai
+tiktoken
